@@ -1,2 +1,2 @@
 # pickle-mind
-Program for CS basics
+Parked Code for CS basics
